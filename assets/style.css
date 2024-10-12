@@ -1,0 +1,48 @@
+.ab{
+    height: 200px;
+    width: 200px;
+    border: solid darkcyan;
+}
+.ac{
+    height: 200px;
+    width: 200px;
+    border: solid rgb(0, 139, 83);
+}
+.a{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: solid darkcyan;
+    background-color: darkcyan;
+}
+.b{
+    text-align: center;text-transform: uppercase;font-size: small;font-weight: lighter;
+}
+.c{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: solid darkcyan;
+    background-color: rgb(2, 139, 0);
+}
+.d{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: solid darkcyan;
+    background-color: rgb(207, 213, 14);
+}
+.e{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: solid darkcyan;
+    background-color: rgb(213, 14, 14); 
+}
+.f{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: solid darkcyan;
+    background-color: rgba(160, 14, 213, 0.968); 
+}
